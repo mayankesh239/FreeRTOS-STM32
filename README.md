@@ -2,7 +2,7 @@
 
 This repository contains a collection of STM32 embedded projects built using **STM32CubeIDE** and **FreeRTOS**, demonstrating essential real-time OS features such as mutexes, semaphores, task prioritization, queue-based communication, and GPIO control.
 
-All projects target the **STM32 Nucleo-F401RE** board and communicate debug messages over **USART2 (115200 baud)** using a UART terminal (e.g., Moserial, TeraTerm, PuTTY).
+All projects target the **STM32 Nucleo-F401RE** board and communicate debug messages over **USART2 (115200 baud)** using a UART terminal Moserial.
 
 ---
 
